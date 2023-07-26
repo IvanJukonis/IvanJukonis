@@ -5,9 +5,9 @@
 I'm Ivan Jukonis, a 25-year-old student in the final stages of my Computer Systems Engineering degree at Universidad Abierta Interamericana (UAI). Currently, I'm actively searching for job opportunities, preferably in the MERN stack, but I'm also open to learning new technologies.
 
    <p align="left"> 
-      <a href="https://github.com/ForrestKnight?tab=followers">
+      <a href="https://github.com/IvanJukonis?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/IvanJukonis?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
+      <a href="https://github.com/IvanJukonis?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/IvanJukonis?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
