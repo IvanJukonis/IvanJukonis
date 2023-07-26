@@ -46,7 +46,7 @@ I'm Ivan Jukonis, a 25-year-old student in the final stages of my Computer Syste
 
 
 ### Current State:
-I am currently on the lookout for exciting job opportunities, with a particular interest in roles related to the MERN stack (MongoDB, Express, React, and Node.js). My enthusiasm for learning drives me to explore and embrace new technologies beyond my current expertise.
+I am currently on the lookout for exciting job opportunities, with a particular interest in roles related to the MERN stack (MongoDB, Express, React, and Node.js). My main goal is to continuously expand my knowledge, and that's why I am always eager to learn and explore new technologies.
 
 ### Education:
 I am in the final stage of completing my degree in Computer Systems Engineering at Universidad Abierta Interamericana (UAI), with only one subject remaining before obtaining my degree. Additionally, I hold the First Certificate and possess a high level of proficiency in English.
