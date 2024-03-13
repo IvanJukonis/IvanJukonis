@@ -2,7 +2,7 @@
 
 **FullStack Developer (Junior)**
 
-I'm Ivan Jukonis, a 25-year-old student in the final stages of my Computer Systems Engineering degree at Universidad Abierta Interamericana (UAI). Currently, I'm actively searching for job opportunities, preferably in the MERN stack, but I'm also open to learning new technologies.
+I'm Ivan Jukonis, a 26-year-old developer recently graduated in Computer Systems Engineering at Universidad Abierta Interamericana (UAI). Currently, I'm actively searching for job opportunities, preferably in the MERN stack, but I'm also open to learning new technologies.
 
    <p align="left"> 
       <a href="https://github.com/IvanJukonis?tab=followers">
