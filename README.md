@@ -2,7 +2,7 @@
 
 **FullStack Developer (Junior)**
 
-I'm Ivan Jukonis, a 26-year-old developer recently graduated in Computer Systems Engineering at Universidad Abierta Interamericana (UAI). Currently, I'm actively searching for job opportunities, preferably in the MERN stack, but I'm also open to learning new technologies.
+I'm Ivan Jukonis, a 27-year-old developer graduated in Computer Systems Engineering at Universidad Abierta Interamericana (UAI). Currently working as an SAP ABAP Developer at Exaccs Consulting.
 
    <p align="left"> 
       <a href="https://github.com/IvanJukonis?tab=followers">
@@ -38,18 +38,15 @@ I'm Ivan Jukonis, a 26-year-old developer recently graduated in Computer Systems
 
 **Name**: Ivan Jukonis
 
-**Age**: 25
+**Age**: 27
 
 **Country**: Argentina
 
 **City**: Rosario
 
 
-### Current State:
-I am currently on the lookout for exciting job opportunities, with a particular interest in roles related to the MERN stack (MongoDB, Express, React, and Node.js). My main goal is to continuously expand my knowledge, and that's why I am always eager to learn and explore new technologies.
-
 ### Education:
-I am in the final stage of completing my degree in Computer Systems Engineering at Universidad Abierta Interamericana (UAI), with only one subject remaining before obtaining my degree. Additionally, I hold the First Certificate and possess a high level of proficiency in English.
+Degree in Computer Systems Engineering at Universidad Abierta Interamericana (UAI). Additionally, I hold the First Certificate and possess a high level of proficiency in English.
 
 ### GitHub Profile:
 On my GitHub profile, you can find projects I have developed during my studies, as well as some personal learning initiatives. I am thrilled about collaborating with other members of the developer community and continuing to grow in this field.
